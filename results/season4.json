@@ -1,0 +1,352 @@
+[
+	{
+		"name" : "Elitor.",
+		"elo" : 1724,
+		"wins" : 261,
+		"current_streak" : 0,
+		"max_streak" : 67
+	},
+	{
+		"name" : "SPR_RUBIKART",
+		"elo" : 1579,
+		"wins" : 254,
+		"current_streak" : 35,
+		"max_streak" : 111
+	},
+	{
+		"name" : "Jose",
+		"elo" : 1552,
+		"wins" : 123,
+		"current_streak" : 4,
+		"max_streak" : 11
+	},
+	{
+		"name" : "Paquitotheone",
+		"elo" : 1430,
+		"wins" : 47,
+		"current_streak" : 46,
+		"max_streak" : 46
+	},
+	{
+		"name" : "nafen",
+		"elo" : 1373,
+		"wins" : 99,
+		"current_streak" : 0,
+		"max_streak" : 23
+	},
+	{
+		"name" : "baldyhead",
+		"elo" : 1361,
+		"wins" : 82,
+		"current_streak" : 1,
+		"max_streak" : 11
+	},
+	{
+		"name" : "LatamEnjoyer",
+		"elo" : 1302,
+		"wins" : 35,
+		"current_streak" : 2,
+		"max_streak" : 33
+	},
+	{
+		"name" : "SufusRank",
+		"elo" : 1300,
+		"wins" : 319,
+		"current_streak" : 6,
+		"max_streak" : 13
+	},
+	{
+		"name" : "sebaf",
+		"elo" : 1287,
+		"wins" : 115,
+		"current_streak" : 4,
+		"max_streak" : 14
+	},
+	{
+		"name" : "Azomael57",
+		"elo" : 1280,
+		"wins" : 35,
+		"current_streak" : 1,
+		"max_streak" : 16
+	},
+	{
+		"name" : "Alastor",
+		"elo" : 1273,
+		"wins" : 19,
+		"current_streak" : 19,
+		"max_streak" : 19
+	},
+	{
+		"name" : "Misael",
+		"elo" : 1231,
+		"wins" : 583,
+		"current_streak" : 4,
+		"max_streak" : 13
+	},
+	{
+		"name" : "bayumo20",
+		"elo" : 1218,
+		"wins" : 240,
+		"current_streak" : 1,
+		"max_streak" : 10
+	},
+	{
+		"name" : "Totonho",
+		"elo" : 1211,
+		"wins" : 117,
+		"current_streak" : 3,
+		"max_streak" : 13
+	},
+	{
+		"name" : "maxgamer500",
+		"elo" : 1209,
+		"wins" : 104,
+		"current_streak" : 2,
+		"max_streak" : 14
+	},
+	{
+		"name" : "destructor ",
+		"elo" : 1209,
+		"wins" : 39,
+		"current_streak" : 2,
+		"max_streak" : 13
+	},
+	{
+		"name" : "maxIMILIANO",
+		"elo" : 1209,
+		"wins" : 33,
+		"current_streak" : 2,
+		"max_streak" : 11
+	},
+	{
+		"name" : "guywistik",
+		"elo" : 1208,
+		"wins" : 67,
+		"current_streak" : 1,
+		"max_streak" : 9
+	},
+	{
+		"name" : "rayo1994",
+		"elo" : 1198,
+		"wins" : 78,
+		"current_streak" : 3,
+		"max_streak" : 10
+	},
+	{
+		"name" : "iham0713.",
+		"elo" : 1196,
+		"wins" : 498,
+		"current_streak" : 13,
+		"max_streak" : 22
+	},
+	{
+		"name" : "Pie pequeño ",
+		"elo" : 1188,
+		"wins" : 89,
+		"current_streak" : 1,
+		"max_streak" : 11
+	},
+	{
+		"name" : "Deadpooll07 ",
+		"elo" : 1186,
+		"wins" : 40,
+		"current_streak" : 8,
+		"max_streak" : 8
+	},
+	{
+		"name" : "ronaldohg",
+		"elo" : 1184,
+		"wins" : 73,
+		"current_streak" : 1,
+		"max_streak" : 10
+	},
+	{
+		"name" : "DanijoaquinSPR",
+		"elo" : 1175,
+		"wins" : 31,
+		"current_streak" : 1,
+		"max_streak" : 10
+	},
+	{
+		"name" : "MiXiBo",
+		"elo" : 1153,
+		"wins" : 49,
+		"current_streak" : 1,
+		"max_streak" : 9
+	},
+	{
+		"name" : "Nathzu",
+		"elo" : 1134,
+		"wins" : 45,
+		"current_streak" : 0,
+		"max_streak" : 9
+	},
+	{
+		"name" : "koincast",
+		"elo" : 1126,
+		"wins" : 12,
+		"current_streak" : 12,
+		"max_streak" : 12
+	},
+	{
+		"name" : "Kaske",
+		"elo" : 1118,
+		"wins" : 105,
+		"current_streak" : 0,
+		"max_streak" : 7
+	},
+	{
+		"name" : "Supapa14",
+		"elo" : 1115,
+		"wins" : 369,
+		"current_streak" : 0,
+		"max_streak" : 8
+	},
+	{
+		"name" : "papu+1000",
+		"elo" : 1108,
+		"wins" : 97,
+		"current_streak" : 4,
+		"max_streak" : 9
+	},
+	{
+		"name" : "Lord",
+		"elo" : 1105,
+		"wins" : 10,
+		"current_streak" : 0,
+		"max_streak" : 10
+	},
+	{
+		"name" : "anthonio",
+		"elo" : 1103,
+		"wins" : 51,
+		"current_streak" : 0,
+		"max_streak" : 6
+	},
+	{
+		"name" : "Thonyz1",
+		"elo" : 1096,
+		"wins" : 30,
+		"current_streak" : 0,
+		"max_streak" : 8
+	},
+	{
+		"name" : "toguro",
+		"elo" : 1096,
+		"wins" : 61,
+		"current_streak" : 1,
+		"max_streak" : 13
+	},
+	{
+		"name" : "usarname",
+		"elo" : 1089,
+		"wins" : 77,
+		"current_streak" : 0,
+		"max_streak" : 9
+	},
+	{
+		"name" : "Gabo GT",
+		"elo" : 1084,
+		"wins" : 123,
+		"current_streak" : 3,
+		"max_streak" : 13
+	},
+	{
+		"name" : "marcospace",
+		"elo" : 1080,
+		"wins" : 269,
+		"current_streak" : 2,
+		"max_streak" : 13
+	},
+	{
+		"name" : "kelevracm",
+		"elo" : 1076,
+		"wins" : 67,
+		"current_streak" : 1,
+		"max_streak" : 10
+	},
+	{
+		"name" : "Pauwer",
+		"elo" : 1071,
+		"wins" : 108,
+		"current_streak" : 0,
+		"max_streak" : 11
+	},
+	{
+		"name" : "ENTE",
+		"elo" : 1070,
+		"wins" : 118,
+		"current_streak" : 0,
+		"max_streak" : 9
+	},
+	{
+		"name" : "newgift",
+		"elo" : 1069,
+		"wins" : 81,
+		"current_streak" : 1,
+		"max_streak" : 12
+	},
+	{
+		"name" : "Xbrnayarbx",
+		"elo" : 1064,
+		"wins" : 5,
+		"current_streak" : 5,
+		"max_streak" : 5
+	},
+	{
+		"name" : "Cloudy",
+		"elo" : 1060,
+		"wins" : 20,
+		"current_streak" : 0,
+		"max_streak" : 5
+	},
+	{
+		"name" : "ralo 69",
+		"elo" : 1057,
+		"wins" : 30,
+		"current_streak" : 0,
+		"max_streak" : 9
+	},
+	{
+		"name" : "Rey",
+		"elo" : 1056,
+		"wins" : 8,
+		"current_streak" : 4,
+		"max_streak" : 4
+	},
+	{
+		"name" : "Sergi",
+		"elo" : 1056,
+		"wins" : 21,
+		"current_streak" : 0,
+		"max_streak" : 6
+	},
+	{
+		"name" : "henryccscc",
+		"elo" : 1056,
+		"wins" : 104,
+		"current_streak" : 0,
+		"max_streak" : 7
+	},
+	{
+		"name" : "Donged",
+		"elo" : 1055,
+		"wins" : 126,
+		"current_streak" : 0,
+		"max_streak" : 9
+	},
+	{
+		"name" : "DIjanivy",
+		"elo" : 1053,
+		"wins" : 5,
+		"current_streak" : 0,
+		"max_streak" : 5
+	},
+	{
+		"name" : "Francobit",
+		"elo" : 1049,
+		"wins" : 235,
+		"current_streak" : 1,
+		"max_streak" : 9
+	}
+]
